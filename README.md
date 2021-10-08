@@ -1,2 +1,2 @@
-# Vechile Price Prediction
+# Vehicle Price Prediction
  
